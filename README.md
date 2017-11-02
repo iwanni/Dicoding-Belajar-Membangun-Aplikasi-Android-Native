@@ -2,7 +2,7 @@
 
 Modul 1 : Activity -> HitungLuas<br />
 Modul 2 : Intent -> Sample_Intent<br />
-Modul 3 : Fragment -> MaterialTab<br />
+Modul 3 : Fragment -> SimpleTabApplication<br />
 Modul 4 : Flexible UI -> SampleFragmentUsage<br />
 Modul 5 : Android Layout -> LayoutSample<br />
 Modul 6 : Simple Listview -> SimpleListView<br />
